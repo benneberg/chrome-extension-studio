@@ -11,11 +11,11 @@
 
 ## 🎯 Purpose & Idea
 
-**Extenda** is an interactive web application designed to guide developers, founders, and indie hackers through every stage of creating a profitable Chrome extension — from ideation to launch, monetization, and post-launch optimization.
+**xGen Studio** is an interactive web application designed to guide developers, founders, and indie hackers through every stage of creating a profitable Chrome extension — from ideation to launch, monetization, and post-launch optimization.
 
-Unlike static guides, Extenda is **actionable**, **AI-powered**, and **workflow-driven**. It combines proven development strategies with real-time assistance from Large Language Models (LLMs) via [OpenRouter](https://openrouter.ai), helping users generate ideas, craft prompts, validate markets, and build faster.
+Unlike static guides, xGen Studio is **actionable**, **AI-powered**, and **workflow-driven**. It combines proven development strategies with real-time assistance from Large Language Models (LLMs) via [OpenRouter](https://openrouter.ai), helping users generate ideas, craft prompts, validate markets, and build faster.
 
-Whether you're building your first extension or scaling your 10th, Extenda acts as your personal coach, checklist, and automation hub — all in one place.
+Whether you're building your first extension or scaling your 10th, xGen Studio acts as your personal coach, checklist, and automation hub — all in one place.
 
 ---
 
@@ -169,7 +169,7 @@ MIT License – feel free to use, modify, and distribute.
 Have an idea? Found a bug? Want to collaborate?
 
 👉 Open an issue or reach out at:  
-📧 hello@extenda.dev *(example)*
+📧  *(example)*
 
 ---
 
