@@ -1,9 +1,9 @@
 # xGen Studio – The AI-Powered Chrome Extension Developer’s Toolbox
 
-[Extenda Screenshot](https://via.placeholder.com/1200x600/f5f5f5/4285f4?text=Extenda+AI+Playbook)  
+[xGen Studio Screenshot](https://via.placeholder.com/1200x600/f5f5f5/4285f4?text=Extenda+AI+Playbook)  
 *Your intelligent co-pilot from idea to monetized Chrome extension.*
 
-🚀 **Live Demo**: [https://extenda.vercel.app](https://extenda.vercel.app)  
+🚀 **Live Demo**: [https://benneberg.github.io/ocr-screenshot-ai/](https://benneberg.github.io/ocr-screenshot-ai/)
 🔧 **Status**: MVP (Ready to Use)  
 👨‍💻 **Built by**: Community-driven developer toolkit  
 
