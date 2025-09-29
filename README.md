@@ -1,6 +1,6 @@
 # xGen Studio – The AI-Powered Chrome Extension Developer’s Toolbox
 
-![Extenda Screenshot](https://via.placeholder.com/1200x600/f5f5f5/4285f4?text=Extenda+AI+Playbook)  
+[Extenda Screenshot](https://via.placeholder.com/1200x600/f5f5f5/4285f4?text=Extenda+AI+Playbook)  
 *Your intelligent co-pilot from idea to monetized Chrome extension.*
 
 🚀 **Live Demo**: [https://extenda.vercel.app](https://extenda.vercel.app)  
@@ -87,3 +87,91 @@ cd extenda-ai
 open index.html
 # Or use a local server:
 npx serve
+```
+
+### 2. Deploy Online
+Deploy instantly with:
+- [Vercel](https://vercel.com): `vercel`
+- [Netlify](https://netlify.com): Drag & drop
+- [GitHub Pages](https://pages.github.com)
+
+No backend needed!
+
+### 3. Connect Your AI
+1. Go to [OpenRouter](https://openrouter.ai/keys) and get your free API key
+2. In the app, go to **Settings**
+3. Paste your key and click “Save & Test”
+4. Select your preferred model (e.g., `mistralai/mistral-7b-instruct`)
+5. Start using AI features!
+
+### 4. Begin Your Journey
+- Click “Get Started” on the homepage
+- Follow the task checklist
+- Use AI tools to accelerate each phase
+- Track progress and stay motivated
+
+---
+
+## 📈 Future Improvements & Roadmap
+
+We’re just getting started! Here’s what’s next:
+
+### 🔹 V1.1 – Enhanced UX & Collaboration
+- [ ] Add ability to save notes per section
+- [ ] Export playbook + notes as PDF
+- [ ] Dark mode toggle
+- [ ] Shareable links to generated ideas
+
+### 🔹 V1.2 – Backend & Security Upgrade
+- [ ] Add Express.js proxy server to hide API keys
+- [ ] Support login with GitHub / Google
+- [ ] Sync progress across devices (Firebase or Supabase)
+
+### 🔹 V1.3 – Advanced AI Workflows
+- [ ] Auto-generate manifest.json and popup.js templates
+- [ ] AI code reviewer for permissions and security
+- [ ] One-click prompt → extension scaffold generator
+
+### 🔹 V1.4 – Chrome Extension Companion
+- [ ] Build a companion Chrome extension that syncs with this site
+- [ ] Real-time analytics dashboard
+- [ ] In-context idea capture while browsing
+
+### 🔹 V2.0 – Community & Marketplace
+- [ ] Public idea board (like Product Hunt for extensions)
+- [ ] Template marketplace (sell/publish workflows)
+- [ ] Monetization simulator: predict revenue based on niche
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Whether it's fixing bugs, improving UI, adding translations, or suggesting new AI workflows:
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feat/new-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feat/new-feature`)
+5. Open a pull request
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+---
+
+## 📜 License
+
+MIT License – feel free to use, modify, and distribute.
+
+---
+
+## 💬 Feedback & Questions?
+
+Have an idea? Found a bug? Want to collaborate?
+
+👉 Open an issue or reach out at:  
+📧 hello@extenda.dev *(example)*
+
+---
+
+Made with love and respect for builders, tinkerers, and creators who believe small tools can make a big impact.
+```
